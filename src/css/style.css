@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Karla';
+}
+
+.nav {
+    height: 65px;
+    width: 100vw;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-img {
+    width: 51.31px;
+height: 46.22px;
+margin-right: 1rem;
+margin-left: 2.5rem;
+}
+
+.nav-title {
+    color: white;
+}
